@@ -1,0 +1,6 @@
+PASS builder twice preserves existing scene/prefab/material bytes
+PASS scene validation and Editor import
+PASS settings/bookmarks persistent roundtrip, unknown bookmark retained
+PASS corrupt settings reset and retained diagnostic copy
+PASS settings NaN/range validation
+PASS MVP fixture media checksums

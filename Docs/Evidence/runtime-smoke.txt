@@ -1,0 +1,4 @@
+Image loaded: True
+Modal restores detail and blocks movement: True
+Single player/EventSystem: True
+Return zone: Lobby

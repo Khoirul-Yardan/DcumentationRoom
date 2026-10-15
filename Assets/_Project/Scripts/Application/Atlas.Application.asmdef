@@ -1,0 +1,9 @@
+{
+  "name": "Atlas.Application",
+  "rootNamespace": "ProjectAtlas.Application",
+  "references": [
+    "Atlas.Domain"
+  ],
+  "includePlatforms": [],
+  "noEngineReferences": true
+}

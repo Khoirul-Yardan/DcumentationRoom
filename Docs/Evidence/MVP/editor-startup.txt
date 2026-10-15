@@ -1,0 +1,8 @@
+attempt to write a readonly database
+attempt to write a readonly database
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Channel LicenseClient-ACER NITRO doesn't exist
+[Licensing::Module] Successfully launched the LicensingClient (PId: 31844)
+[Package Manager] Could not connect to IPC stream "Upm-27004" after 30.0 seconds.
+[Package Manager] Could not establish a connection with the Unity Package Manager local server process.
+Exiting without the bug reporter. Application will terminate with return code 1

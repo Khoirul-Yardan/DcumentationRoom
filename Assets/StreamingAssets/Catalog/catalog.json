@@ -1,0 +1,636 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "sample-mvp-2026-10-14",
+  "publishedAt": "2026-10-14T08:00:00Z",
+  "isSample": true,
+  "categories": [
+    {
+      "id": "sample-digital",
+      "label": "Contoh Karya Digital",
+      "sortOrder": 10
+    },
+    {
+      "id": "sample-research",
+      "label": "Contoh Penelitian",
+      "sortOrder": 20
+    },
+    {
+      "id": "sample-hardware",
+      "label": "Contoh Perangkat",
+      "sortOrder": 30
+    }
+  ],
+  "projects": [
+    {
+      "id": "sample-project-001",
+      "slug": "contoh-001",
+      "title": "Contoh Atlas Catatan",
+      "summary": "Prototype sintetis pencatatan dan pencarian informasi.",
+      "year": 2026,
+      "developmentStatus": "in_progress",
+      "publicationState": "published",
+      "visibility": "public",
+      "categoryIds": [
+        "sample-digital"
+      ],
+      "tags": [
+        "contoh",
+        "prototype",
+        "catatan"
+      ],
+      "problem": "Contoh kebutuhan menyusun informasi agar mudah ditemukan dan dipahami.",
+      "solution": "Prototype sintetis dengan daftar terstruktur, pencarian, dan tampilan ringkasan.",
+      "outcomes": [
+        "Hasil demonstrasi untuk pengujian museum. Bukan capaian proyek asli pengguna."
+      ],
+      "features": [
+        "Daftar informasi",
+        "Pencarian"
+      ],
+      "team": [
+        {
+          "displayName": "Tim Contoh",
+          "role": "Perancang prototype sintetis"
+        }
+      ],
+      "techStack": [
+        "Unity",
+        "C#",
+        "JSON"
+      ],
+      "coverMediaId": "sample-cover-001",
+      "galleryMediaIds": [
+        "sample-cover-001"
+      ],
+      "demoMediaIds": [
+        "sample-mvp-demo"
+      ],
+      "documentIds": [
+        "sample-mvp-doc-001",
+        "sample-mvp-doc-002"
+      ],
+      "relatedProjectIds": [
+        "sample-project-009"
+      ],
+      "displayType": "screen",
+      "sortOrder": 10,
+      "updatedAt": "2026-10-10T08:00:00Z",
+      "isSample": true
+    },
+    {
+      "id": "sample-project-002",
+      "slug": "contoh-002",
+      "title": "Contoh Kebun Sensor",
+      "summary": "Simulasi contoh pemantauan taman; tidak terhubung perangkat nyata.",
+      "year": 2026,
+      "developmentStatus": "completed",
+      "publicationState": "published",
+      "visibility": "public",
+      "categoryIds": [
+        "sample-digital"
+      ],
+      "tags": [
+        "contoh",
+        "prototype",
+        "sensor"
+      ],
+      "problem": "Contoh kebutuhan menyusun informasi agar mudah ditemukan dan dipahami.",
+      "solution": "Prototype sintetis dengan daftar terstruktur, pencarian, dan tampilan ringkasan.",
+      "outcomes": [
+        "Hasil demonstrasi untuk pengujian museum. Bukan capaian proyek asli pengguna."
+      ],
+      "features": [
+        "Daftar informasi",
+        "Pencarian"
+      ],
+      "team": [
+        {
+          "displayName": "Tim Contoh",
+          "role": "Perancang prototype sintetis"
+        }
+      ],
+      "techStack": [
+        "Unity",
+        "C#",
+        "JSON"
+      ],
+      "coverMediaId": "sample-cover-002",
+      "galleryMediaIds": [
+        "sample-cover-002"
+      ],
+      "demoMediaIds": [],
+      "documentIds": [],
+      "relatedProjectIds": [],
+      "displayType": "screen",
+      "sortOrder": 20,
+      "updatedAt": "2026-10-10T08:00:00Z",
+      "isSample": true
+    },
+    {
+      "id": "sample-project-003",
+      "slug": "contoh-003",
+      "title": "Contoh Arsip Cerita",
+      "summary": "Demonstrasi pengelompokan dokumentasi berdasarkan perjalanan proyek.",
+      "year": 2026,
+      "developmentStatus": "archived",
+      "publicationState": "published",
+      "visibility": "public",
+      "categoryIds": [
+        "sample-digital"
+      ],
+      "tags": [
+        "contoh",
+        "prototype",
+        "arsip"
+      ],
+      "problem": "Contoh kebutuhan menyusun informasi agar mudah ditemukan dan dipahami.",
+      "solution": "Prototype sintetis dengan daftar terstruktur, pencarian, dan tampilan ringkasan.",
+      "outcomes": [
+        "Hasil demonstrasi untuk pengujian museum. Bukan capaian proyek asli pengguna."
+      ],
+      "features": [
+        "Daftar informasi",
+        "Pencarian"
+      ],
+      "team": [
+        {
+          "displayName": "Tim Contoh",
+          "role": "Perancang prototype sintetis"
+        }
+      ],
+      "techStack": [
+        "Unity",
+        "C#",
+        "JSON"
+      ],
+      "coverMediaId": "sample-cover-003",
+      "galleryMediaIds": [
+        "sample-cover-003"
+      ],
+      "demoMediaIds": [],
+      "documentIds": [],
+      "relatedProjectIds": [],
+      "displayType": "screen",
+      "sortOrder": 30,
+      "updatedAt": "2026-10-10T08:00:00Z",
+      "isSample": true
+    },
+    {
+      "id": "sample-project-004",
+      "slug": "contoh-004",
+      "title": "Contoh Peta Pengetahuan",
+      "summary": "Data sintetis untuk menguji katalog, paging, dan dokumentasi peta pengetahuan.",
+      "year": 2025,
+      "developmentStatus": "planned",
+      "publicationState": "published",
+      "visibility": "public",
+      "categoryIds": [
+        "sample-research"
+      ],
+      "tags": [
+        "contoh",
+        "prototype",
+        "catatan"
+      ],
+      "problem": "Contoh kebutuhan menyusun informasi agar mudah ditemukan dan dipahami.",
+      "solution": "Prototype sintetis dengan daftar terstruktur, pencarian, dan tampilan ringkasan.",
+      "outcomes": [
+        "Hasil demonstrasi untuk pengujian museum. Bukan capaian proyek asli pengguna."
+      ],
+      "features": [
+        "Daftar informasi",
+        "Pencarian"
+      ],
+      "team": [
+        {
+          "displayName": "Tim Contoh",
+          "role": "Perancang prototype sintetis"
+        }
+      ],
+      "techStack": [
+        "Unity",
+        "C#",
+        "JSON"
+      ],
+      "coverMediaId": "sample-cover-001",
+      "galleryMediaIds": [
+        "sample-cover-001"
+      ],
+      "demoMediaIds": [],
+      "documentIds": [],
+      "relatedProjectIds": [],
+      "displayType": "pedestal",
+      "sortOrder": 40,
+      "updatedAt": "2026-10-10T08:00:00Z",
+      "isSample": true
+    },
+    {
+      "id": "sample-project-005",
+      "slug": "contoh-005",
+      "title": "Contoh Stasiun Cuaca",
+      "summary": "Data sintetis untuk menguji katalog, paging, dan dokumentasi stasiun cuaca.",
+      "year": 2026,
+      "developmentStatus": "in_progress",
+      "publicationState": "published",
+      "visibility": "public",
+      "categoryIds": [
+        "sample-hardware"
+      ],
+      "tags": [
+        "contoh",
+        "prototype",
+        "catatan"
+      ],
+      "problem": "Contoh kebutuhan menyusun informasi agar mudah ditemukan dan dipahami.",
+      "solution": "Prototype sintetis dengan daftar terstruktur, pencarian, dan tampilan ringkasan.",
+      "outcomes": [
+        "Hasil demonstrasi untuk pengujian museum. Bukan capaian proyek asli pengguna."
+      ],
+      "features": [
+        "Daftar informasi",
+        "Pencarian"
+      ],
+      "team": [
+        {
+          "displayName": "Tim Contoh",
+          "role": "Perancang prototype sintetis"
+        }
+      ],
+      "techStack": [
+        "Unity",
+        "C#",
+        "JSON"
+      ],
+      "coverMediaId": "sample-cover-001",
+      "galleryMediaIds": [
+        "sample-cover-001"
+      ],
+      "demoMediaIds": [],
+      "documentIds": [],
+      "relatedProjectIds": [],
+      "displayType": "document",
+      "sortOrder": 50,
+      "updatedAt": "2026-10-10T08:00:00Z",
+      "isSample": true
+    },
+    {
+      "id": "sample-project-006",
+      "slug": "contoh-006",
+      "title": "Contoh Jurnal Eksperimen",
+      "summary": "Data sintetis untuk menguji katalog, paging, dan dokumentasi jurnal eksperimen.",
+      "year": 2024,
+      "developmentStatus": "completed",
+      "publicationState": "published",
+      "visibility": "public",
+      "categoryIds": [
+        "sample-research"
+      ],
+      "tags": [
+        "contoh",
+        "prototype",
+        "catatan"
+      ],
+      "problem": "Contoh kebutuhan menyusun informasi agar mudah ditemukan dan dipahami.",
+      "solution": "Prototype sintetis dengan daftar terstruktur, pencarian, dan tampilan ringkasan.",
+      "outcomes": [
+        "Hasil demonstrasi untuk pengujian museum. Bukan capaian proyek asli pengguna."
+      ],
+      "features": [
+        "Daftar informasi",
+        "Pencarian"
+      ],
+      "team": [
+        {
+          "displayName": "Tim Contoh",
+          "role": "Perancang prototype sintetis"
+        }
+      ],
+      "techStack": [
+        "Unity",
+        "C#",
+        "JSON"
+      ],
+      "coverMediaId": "sample-cover-001",
+      "galleryMediaIds": [
+        "sample-cover-001"
+      ],
+      "demoMediaIds": [],
+      "documentIds": [],
+      "relatedProjectIds": [],
+      "displayType": "screen",
+      "sortOrder": 60,
+      "updatedAt": "2026-10-10T08:00:00Z",
+      "isSample": true
+    },
+    {
+      "id": "sample-project-007",
+      "slug": "contoh-007",
+      "title": "Contoh Panel Energi",
+      "summary": "Data sintetis untuk menguji katalog, paging, dan dokumentasi panel energi.",
+      "year": 2025,
+      "developmentStatus": "archived",
+      "publicationState": "published",
+      "visibility": "public",
+      "categoryIds": [
+        "sample-hardware"
+      ],
+      "tags": [
+        "contoh",
+        "prototype",
+        "catatan"
+      ],
+      "problem": "Contoh kebutuhan menyusun informasi agar mudah ditemukan dan dipahami.",
+      "solution": "Prototype sintetis dengan daftar terstruktur, pencarian, dan tampilan ringkasan.",
+      "outcomes": [
+        "Hasil demonstrasi untuk pengujian museum. Bukan capaian proyek asli pengguna."
+      ],
+      "features": [
+        "Daftar informasi",
+        "Pencarian"
+      ],
+      "team": [
+        {
+          "displayName": "Tim Contoh",
+          "role": "Perancang prototype sintetis"
+        }
+      ],
+      "techStack": [
+        "Unity",
+        "C#",
+        "JSON"
+      ],
+      "coverMediaId": "sample-cover-001",
+      "galleryMediaIds": [
+        "sample-cover-001"
+      ],
+      "demoMediaIds": [],
+      "documentIds": [],
+      "relatedProjectIds": [],
+      "displayType": "pedestal",
+      "sortOrder": 70,
+      "updatedAt": "2026-10-10T08:00:00Z",
+      "isSample": true
+    },
+    {
+      "id": "sample-project-008",
+      "slug": "contoh-008",
+      "title": "Contoh Rak Digital",
+      "summary": "Data sintetis untuk menguji katalog, paging, dan dokumentasi rak digital.",
+      "year": 2026,
+      "developmentStatus": "planned",
+      "publicationState": "published",
+      "visibility": "public",
+      "categoryIds": [
+        "sample-research"
+      ],
+      "tags": [
+        "contoh",
+        "prototype",
+        "catatan"
+      ],
+      "problem": "Contoh kebutuhan menyusun informasi agar mudah ditemukan dan dipahami.",
+      "solution": "Prototype sintetis dengan daftar terstruktur, pencarian, dan tampilan ringkasan.",
+      "outcomes": [
+        "Hasil demonstrasi untuk pengujian museum. Bukan capaian proyek asli pengguna."
+      ],
+      "features": [
+        "Daftar informasi",
+        "Pencarian"
+      ],
+      "team": [
+        {
+          "displayName": "Tim Contoh",
+          "role": "Perancang prototype sintetis"
+        }
+      ],
+      "techStack": [
+        "Unity",
+        "C#",
+        "JSON"
+      ],
+      "coverMediaId": "sample-cover-001",
+      "galleryMediaIds": [
+        "sample-cover-001"
+      ],
+      "demoMediaIds": [],
+      "documentIds": [],
+      "relatedProjectIds": [],
+      "displayType": "document",
+      "sortOrder": 80,
+      "updatedAt": "2026-10-10T08:00:00Z",
+      "isSample": true
+    },
+    {
+      "id": "sample-project-009",
+      "slug": "contoh-009",
+      "title": "Contoh Dokumentasi Aksesibel",
+      "summary": "Data sintetis untuk menguji katalog, paging, dan dokumentasi dokumentasi aksesibel.",
+      "year": 2024,
+      "developmentStatus": "in_progress",
+      "publicationState": "published",
+      "visibility": "public",
+      "categoryIds": [
+        "sample-hardware"
+      ],
+      "tags": [
+        "contoh",
+        "prototype",
+        "catatan"
+      ],
+      "problem": "Contoh kebutuhan menyusun informasi agar mudah ditemukan dan dipahami.",
+      "solution": "Prototype sintetis dengan daftar terstruktur, pencarian, dan tampilan ringkasan.",
+      "outcomes": [
+        "Hasil demonstrasi untuk pengujian museum. Bukan capaian proyek asli pengguna."
+      ],
+      "features": [
+        "Daftar informasi",
+        "Pencarian"
+      ],
+      "team": [
+        {
+          "displayName": "Tim Contoh",
+          "role": "Perancang prototype sintetis"
+        }
+      ],
+      "techStack": [
+        "Unity",
+        "C#",
+        "JSON"
+      ],
+      "coverMediaId": "sample-cover-001",
+      "galleryMediaIds": [
+        "sample-cover-001"
+      ],
+      "demoMediaIds": [],
+      "documentIds": [],
+      "relatedProjectIds": [],
+      "displayType": "screen",
+      "sortOrder": 90,
+      "updatedAt": "2026-10-10T08:00:00Z",
+      "isSample": true
+    }
+  ],
+  "media": [
+    {
+      "id": "sample-cover-001",
+      "kind": "image",
+      "locator": {
+        "type": "bundle",
+        "path": "Media/sample-cover-001.png"
+      },
+      "contentType": "image/png",
+      "checksum": null,
+      "width": 1280,
+      "height": 720,
+      "byteSize": null,
+      "offlineAllowed": true
+    },
+    {
+      "id": "sample-cover-002",
+      "kind": "image",
+      "locator": {
+        "type": "bundle",
+        "path": "Media/sample-cover-002.png"
+      },
+      "contentType": "image/png",
+      "checksum": null,
+      "width": 1280,
+      "height": 720,
+      "byteSize": null,
+      "offlineAllowed": true
+    },
+    {
+      "id": "sample-cover-003",
+      "kind": "image",
+      "locator": {
+        "type": "bundle",
+        "path": "Media/sample-cover-003.png"
+      },
+      "contentType": "image/png",
+      "checksum": null,
+      "width": 1280,
+      "height": 720,
+      "byteSize": null,
+      "offlineAllowed": true
+    },
+    {
+      "id": "sample-mvp-page-001",
+      "kind": "document_page",
+      "locator": {
+        "type": "bundle",
+        "path": "Media/sample-mvp-page-001.png"
+      },
+      "contentType": "image/png",
+      "width": 960,
+      "height": 1280,
+      "offlineAllowed": true,
+      "checksum": "cb1231cd8575209a61b82d8dac92aa0393110bbc6a36c336cd7e41648005ef1b"
+    },
+    {
+      "id": "sample-mvp-page-002",
+      "kind": "document_page",
+      "locator": {
+        "type": "bundle",
+        "path": "Media/sample-mvp-page-002.png"
+      },
+      "contentType": "image/png",
+      "width": 960,
+      "height": 1280,
+      "offlineAllowed": true,
+      "checksum": "5b8ee6944a30ee92b1dd4cbde3d85dd2aa579bddf7fdd1aaba55cc45c3a58f80"
+    },
+    {
+      "id": "sample-mvp-demo",
+      "kind": "video",
+      "locator": {
+        "type": "bundle",
+        "path": "Media/sample-mvp-demo.mp4"
+      },
+      "contentType": "video/mp4",
+      "width": 540,
+      "height": 720,
+      "offlineAllowed": true,
+      "checksum": "5ad5df5675489044c88a17692e59528c19426103d5f59fefa71010a21a44453d"
+    }
+  ],
+  "documents": [
+    {
+      "id": "sample-mvp-doc-001",
+      "title": "Contoh Laporan Dua Halaman",
+      "currentVersionId": "sample-mvp-version-001"
+    },
+    {
+      "id": "sample-mvp-doc-002",
+      "title": "Contoh Dokumen Tanpa Preview",
+      "currentVersionId": "sample-mvp-version-002"
+    }
+  ],
+  "documentVersions": [
+    {
+      "id": "sample-mvp-version-001",
+      "documentId": "sample-mvp-doc-001",
+      "versionLabel": "v1 sintetis",
+      "mimeType": "application/pdf",
+      "modifiedAt": "2026-10-14T08:00:00Z",
+      "sourceRef": {
+        "provider": "fixture",
+        "fileId": "sample-source-001",
+        "webUrl": null
+      },
+      "previewMediaIds": [
+        "sample-mvp-page-001",
+        "sample-mvp-page-002"
+      ],
+      "previewState": "ready"
+    },
+    {
+      "id": "sample-mvp-version-002",
+      "documentId": "sample-mvp-doc-002",
+      "versionLabel": "v1 sintetis",
+      "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "modifiedAt": "2026-10-14T08:00:00Z",
+      "sourceRef": {
+        "provider": "fixture",
+        "fileId": "sample-source-002",
+        "webUrl": null
+      },
+      "previewMediaIds": [],
+      "previewState": "unavailable"
+    }
+  ],
+  "milestones": [
+    {
+      "id": "sample-mvp-milestone-1",
+      "projectId": "sample-project-001",
+      "date": "2026-10-10",
+      "title": "Milestone sintetis 1",
+      "description": "Kejadian contoh untuk menguji pengurutan timeline, bukan capaian pengguna.",
+      "evidenceDocumentIds": [
+        "sample-mvp-doc-001"
+      ]
+    },
+    {
+      "id": "sample-mvp-milestone-2",
+      "projectId": "sample-project-001",
+      "date": "2026-10-14",
+      "title": "Milestone sintetis 2",
+      "description": "Kejadian contoh untuk menguji pengurutan timeline, bukan capaian pengguna.",
+      "evidenceDocumentIds": [
+        "sample-mvp-doc-001"
+      ]
+    }
+  ],
+  "exhibitions": [
+    {
+      "id": "sample-mvp-exhibition",
+      "title": "Pameran Contoh Sintetis",
+      "projectIds": [
+        "sample-project-001",
+        "sample-project-009"
+      ],
+      "presentationMediaIds": [
+        "sample-mvp-demo"
+      ]
+    }
+  ]
+}

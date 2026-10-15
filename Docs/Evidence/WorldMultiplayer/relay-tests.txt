@@ -1,0 +1,14 @@
+test_disconnect_closes_room (__main__.RelayTests) ... ok
+test_mismatched_protocol_and_catalog (__main__.RelayTests) ... ok
+test_nan_pose_rejected_without_server_crash (__main__.RelayTests) ... ok
+test_room_capacity_eight (__main__.RelayTests) ... ok
+test_rooms_are_isolated (__main__.RelayTests) ... ok
+test_tls_encrypted_room (__main__.RelayTests) ... Executing <Task pending name='Task-234' coro=<IsolatedAsyncioTestCase._asyncioLoopRunner() running at C:\Users\ACER NITRO\AppData\Local\Programs\Python\Python310\lib\unittest\async_case.py:102> wait_for=<_GatheringFuture pending cb=[Task.task_wakeup()] created at C:\Users\ACER NITRO\AppData\Local\Programs\Python\Python310\lib\asyncio\tasks.py:663> created at C:\Users\ACER NITRO\AppData\Local\Programs\Python\Python310\lib\unittest\async_case.py:118> took 0.171 seconds
+ok
+test_truncated_and_oversized_frames (__main__.RelayTests) ... ok
+test_unknown_code (__main__.RelayTests) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 1.906s
+
+OK

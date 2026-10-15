@@ -1,0 +1,48 @@
+ï»¿PASS valid fixture
+PASS null catalog rejected
+PASS duplicate project ID rejected
+PASS missing cover rejected
+PASS missing category rejected
+PASS unknown schema rejected
+PASS null project array rejected
+PASS null record rejected without exception
+PASS draft rejected from public snapshot
+PASS private rejected from public snapshot
+PASS oversized title rejected
+PASS sample label enforced
+PASS unsafe path: ../file
+PASS unsafe path: /file
+PASS unsafe path: C:/file
+PASS unsafe path: Media/../../file
+PASS unsafe path: Media\file
+PASS unsafe path: Media/%2e%2e/file
+PASS unsafe path: Media//file
+PASS unsafe path: 
+PASS relative bundle path accepted
+PASS unsafe URL rejected: javascript:alert(1)
+PASS unsafe URL rejected: file:///secret
+PASS unsafe URL rejected: http://drive.google.com/x
+PASS unsafe URL rejected: https://drive.google.com.evil.test/x
+PASS unsafe URL rejected: https://name@drive.google.com/x
+PASS unsafe URL rejected: https://drive.google.com:444/x
+PASS approved URL accepted
+PASS whitespace/case normalization
+PASS filter intersection, archived remains public
+PASS year intersection excludes other year
+PASS Unicode FormKC normalization
+PASS paging: 0
+PASS paging: 1
+PASS paging: 8
+PASS paging: 9
+PASS paging: 100
+PASS stable sort independent of manifest order
+PASS cross-document current version rejected
+PASS multi-category OR includes both categories without duplicates
+PASS multi-category OR intersected with year and status
+PASS multi-category AND year excludes wrong year
+PASS search intersects category
+PASS reset categories restores all projects
+PASS 100 projects and 1000 documents validated
+Metadata query mean over 100 runs (100 projects / 1000 docs): 0.495 ms; not a Unity render benchmark
+TOTAL PASS 45
+ï»¿

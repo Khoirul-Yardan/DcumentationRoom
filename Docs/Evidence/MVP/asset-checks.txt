@@ -1,0 +1,35 @@
+PASS 9 labeled synthetic projects
+PASS 3 years and 3 categories for intersecting filters
+PASS projects IDs unique
+PASS documents IDs unique
+PASS documentVersions IDs unique
+PASS media IDs unique
+PASS milestones IDs unique
+PASS exhibitions IDs unique
+PASS categories IDs unique
+PASS media file exists: sample-cover-001
+PASS decoded image dimensions: sample-cover-001
+PASS media file exists: sample-cover-002
+PASS decoded image dimensions: sample-cover-002
+PASS media file exists: sample-cover-003
+PASS decoded image dimensions: sample-cover-003
+PASS media file exists: sample-mvp-page-001
+PASS SHA256: sample-mvp-page-001
+PASS decoded image dimensions: sample-mvp-page-001
+PASS media file exists: sample-mvp-page-002
+PASS SHA256: sample-mvp-page-002
+PASS decoded image dimensions: sample-mvp-page-002
+PASS media file exists: sample-mvp-demo
+PASS SHA256: sample-mvp-demo
+PASS MP4 fixture H.264 540x720
+PASS MP4 fixture AAC audio; Unity playback remains untested
+NOT MEASURED initial asset hash baseline: Unity removed Temp during startup; use Editor builder idempotency check for byte comparison.
+PASS Unity 6000.3.23f1 retained
+PASS URP 17.3.0 and Input System 1.20.0 retained
+PASS metadata present for project code and fixtures
+PASS assembly acyclic: Atlas.Domain
+PASS assembly acyclic: Atlas.Application
+PASS assembly acyclic: Atlas.Infrastructure
+PASS assembly acyclic: Atlas.Presentation
+PASS assembly acyclic: Atlas.Runtime
+PASS assembly acyclic: Atlas.Editor

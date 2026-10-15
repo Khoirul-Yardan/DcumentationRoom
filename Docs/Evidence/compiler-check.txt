@@ -1,0 +1,11 @@
+Domain: PASS
+
+Application: PASS
+
+Infrastructure: PASS
+
+Presentation: PASS
+
+Runtime: PASS
+
+Editor: PASS

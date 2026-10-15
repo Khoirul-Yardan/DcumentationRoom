@@ -1,0 +1,1 @@
+PASS fixture generator second run preserves manifest bytes and does not duplicate IDs

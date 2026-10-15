@@ -1,0 +1,10 @@
+{
+  "name": "Atlas.Infrastructure",
+  "rootNamespace": "ProjectAtlas.Infrastructure",
+  "references": [
+    "Atlas.Domain",
+    "Atlas.Application"
+  ],
+  "includePlatforms": [],
+  "noEngineReferences": false
+}

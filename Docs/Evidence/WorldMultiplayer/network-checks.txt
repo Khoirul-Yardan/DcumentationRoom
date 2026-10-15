@@ -1,0 +1,39 @@
+ï»¿PASS Lobby minimap center
+PASS Lobby minimap corners / north-up
+PASS Lobby bounds / marker clamp
+PASS Gallery minimap center
+PASS Gallery minimap corners / north-up
+PASS Gallery bounds / marker clamp
+PASS Archive minimap center
+PASS Archive minimap corners / north-up
+PASS Archive bounds / marker clamp
+PASS Showcase minimap center
+PASS Showcase minimap corners / north-up
+PASS Showcase bounds / marker clamp
+PASS Courtyard minimap center
+PASS Courtyard minimap corners / north-up
+PASS Courtyard bounds / marker clamp
+PASS case-insensitive zone binding, unknown zone rejected
+PASS invalid/nonfinite/out-of-bounds network poses rejected
+PASS visitor label sanitized
+PASS room code shape enforced
+PASS pose binary roundtrip
+PASS oversized frame rejected before allocating payload
+PASS create online room through relay
+PASS server issues room code
+PASS two clients join room and receive host snapshot
+PASS server assigns unique identities
+PASS remote movement and independent zone replicated
+PASS client cannot spoof name or host ID
+PASS snapshot reads cannot mutate shared state
+PASS catalog mismatch rejected
+PASS disconnect removes remote visitor
+PASS reconnect after explicit leave
+PASS host departure closes room and clients return solo
+PASS closed room code cannot be reused
+PASS create a fresh room after leaving
+PASS new room gets a fresh code
+PASS production client rejects a plaintext relay
+PASS no plaintext fallback in production client
+TOTAL PASS 37 / network integration used explicit loopback test mode; public internet/TLS certificate deployment not exercised
+ï»¿

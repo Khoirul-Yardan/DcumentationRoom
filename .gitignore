@@ -1,0 +1,17 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+Builds/
+.atlas-validation/
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.pdb
+.env
+*.suo
+__pycache__/
+*.pyc

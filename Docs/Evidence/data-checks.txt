@@ -1,0 +1,20 @@
+PASS: 9 or more labeled synthetic projects
+PASS: duplicate IDs rejected
+PASS: broken foreign key rejected
+PASS: unknown schema rejected
+PASS: unsafe path rejected: ../secret
+PASS: unsafe path rejected: /etc/file
+PASS: unsafe path rejected: C:/secret
+PASS: unsafe path rejected: Media/../../secret
+PASS: unsafe path rejected: Media\secret
+PASS: unsafe path rejected: Media/%2e%2e/file
+PASS: private content rejected from public package
+PASS: source URL allowlist
+PASS: normalized title search
+PASS: category/year/status intersection
+PASS: paging without loss/duplicate: 0
+PASS: paging without loss/duplicate: 1
+PASS: paging without loss/duplicate: 8
+PASS: paging without loss/duplicate: 9
+PASS: paging without loss/duplicate: 100
+PASS: null collection rejected safely

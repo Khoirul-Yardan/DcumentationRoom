@@ -1,0 +1,12 @@
+{
+  "name": "Atlas.Presentation",
+  "rootNamespace": "ProjectAtlas.Presentation",
+  "references": [
+    "Atlas.Domain",
+    "Atlas.Application",
+    "Unity.TextMeshPro",
+    "UnityEngine.UI"
+  ],
+  "includePlatforms": [],
+  "noEngineReferences": false
+}

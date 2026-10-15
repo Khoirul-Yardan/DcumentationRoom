@@ -1,0 +1,20 @@
+services:
+  atlas-relay:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "47778:47778/tcp"
+    volumes:
+      - ./certs:/certs:ro
+    read_only: true
+    cap_drop: [ALL]
+    security_opt:
+      - no-new-privileges:true
+    mem_limit: 256m
+    cpus: 1.0
+    pids_limit: 64
+    logging:
+      driver: json-file
+      options:
+        max-size: "5m"
+        max-file: "2"

@@ -1,0 +1,31 @@
+return {
+    missions = {
+        {id="circuit", npc="Bima", zone="Gallery", title="Nyalakan Galeri", reward=30, seconds=90,
+            description="Bantu Bima memulihkan listrik. Ingat urutan empat tombol warna, lalu ulangi tiga rangkaian.", position=Vector3.new(-61,7,24)},
+        {id="archive", npc="Tika", zone="Archive", title="Kurator Kilat", reward=35, seconds=90,
+            description="Bantu Tika menempatkan lima berkas ke kategori Drive RISTEK yang benar. Maksimal dua kesalahan.", position=Vector3.new(73,7,23)},
+        {id="garden", npc="Sari", zone="Garden", title="Taman Berseri", reward=40, seconds=120,
+            description="Bantu Sari mengambil lima sampah bercahaya di taman. Dekati benda lalu tekan E. Kembalilah kepada Sari untuk menerima reward.", position=Vector3.new(10,7,87)},
+    },
+    npcs = {
+        {name="Nara", role="Pemandu museum", zone="Atrium", position=Vector3.new(-10,7,22), color=Color3.fromRGB(61,206,190),
+            dialogue="Selamat datang di RISTEK! Bima, Tika, dan Sari membutuhkan bantuanmu. Pilih misi, kumpulkan Token Inspirasi, lalu tukarkan dengan aksesori cahaya."},
+        {name="Bima", role="Teknisi galeri", zone="Gallery", position=Vector3.new(-61,7,24), color=Color3.fromRGB(94,166,228), mission="circuit",
+            dialogue="Panel listrik galeri kehilangan urutannya. Bisakah kamu mengingat pola lampunya dan membantu menyalakannya lagi?"},
+        {name="Tika", role="Penjaga arsip", zone="Archive", position=Vector3.new(73,7,23), color=Color3.fromRGB(242,185,85), mission="archive",
+            dialogue="Arsip kita sekarang mengikuti folder Drive RISTEK. Bantu aku memilih kategori yang sesuai untuk berkas-berkas ini."},
+        {name="Sari", role="Penjaga taman", zone="Garden", position=Vector3.new(10,7,87), color=Color3.fromRGB(108,184,113), mission="garden",
+            dialogue="Taman ini tempat semua orang beristirahat. Ada lima benda yang perlu dikumpulkan. Setelah selesai, temui aku lagi, ya!"},
+        {name="Dimas", role="Host auditorium", zone="Auditorium", position=Vector3.new(31,7,-116), color=Color3.fromRGB(166,145,224),
+            dialogue="Naik ke podium untuk menjadi presenter. Kamu bisa mengganti slide yang ditonton semua orang, atau memakai layar pribadi agar tulisannya lebih jelas."},
+        {name="Lumi", role="Penukar reward", zone="Atrium", position=Vector3.new(19,7,-18), color=Color3.fromRGB(236,133,115),
+            dialogue="Token Inspirasi dari misi bisa ditukar dengan Jejak Teal atau Aura Emas. Reward ini kosmetik selama sesi, bukan Robux."},
+    },
+    pickups = {Vector3.new(-12,5.5,84),Vector3.new(-27,5.5,103),Vector3.new(26,5.5,98),Vector3.new(8,5.5,120),Vector3.new(25,5.5,136)},
+    shop = {
+        {id="trail",title="Jejak Teal",cost=30,description="Jejak cahaya yang mengikuti karakter."},
+        {id="aura",title="Aura Emas",cost=60,description="Garis cahaya emas di sekeliling karakter."},
+    },
+    replayReward=5,
+    replayCooldown=30,
+}

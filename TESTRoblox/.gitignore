@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.rbxl.lock
+tools/lune/
+tools/lune.zip

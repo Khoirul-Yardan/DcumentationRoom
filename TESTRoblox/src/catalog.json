@@ -1,0 +1,692 @@
+{
+  "schemaVersion": 1,
+  "isSample": false,
+  "catalogVersion": "drive-2026-10-16",
+  "categories": [
+    "PROJECT",
+    "Tech Insight",
+    "Mini Showcase",
+    "Tech Corner",
+    "Administrasi"
+  ],
+  "projects": [
+    {
+      "id": "drive-1VbVMwNXtH5s2puiSOqqXBBHH9Hs3DVdp",
+      "title": "Website HIMA",
+      "category": "PROJECT",
+      "year": null,
+      "developmentStatus": "documented",
+      "publicationState": "published",
+      "visibility": "public",
+      "isSample": false,
+      "sortOrder": 1,
+      "color": [
+        94,
+        166,
+        228
+      ],
+      "summary": "Koleksi dari RISTEK/PROJECT/Website HIMA; 2 berkas terinventarisasi.",
+      "problem": "Belum tercantum sebagai narasi proyek pada metadata Drive yang dibaca.",
+      "solution": "Buka Dokumentasi untuk melihat file dan preview yang tersedia.",
+      "outcomes": [
+        "Keberadaan folder dan daftar file telah diverifikasi. Status penyelesaian proyek belum disimpulkan."
+      ],
+      "features": [
+        "2 berkas terinventarisasi",
+        "Sumber tunggal: folder Drive RISTEK"
+      ],
+      "team": [],
+      "techStack": [],
+      "tags": [
+        "PROJECT",
+        "Website HIMA",
+        "Drive"
+      ],
+      "updatedAt": "2026-10-16",
+      "sourceLabel": "RISTEK/PROJECT/Website HIMA",
+      "sourceFolderId": "1VbVMwNXtH5s2puiSOqqXBBHH9Hs3DVdp",
+      "documents": [
+        {
+          "id": "drive-doc-1VbVMwNXtH5s2puiSOqqXBBHH9Hs3DVdp-1YvB7Q8X3GEgeJ1hzYzUFYQ0cbXTUIH4k",
+          "title": "Github Web HIMA.txt",
+          "kind": "text",
+          "pages": [
+            "Link GitHub Repo : https://github.com/Khoirul-Yardan/HIMAKALA.git"
+          ],
+          "sourceRef": "1YvB7Q8X3GEgeJ1hzYzUFYQ0cbXTUIH4k",
+          "previewKind": "text"
+        },
+        {
+          "id": "drive-doc-1VbVMwNXtH5s2puiSOqqXBBHH9Hs3DVdp-1o9dJf52laUjDkJgviTyqoX6sqmKdkUuD",
+          "title": "HIMAKALA.zip",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/x-zip-compressed\nLokasi: RISTEK/PROJECT/Website HIMA/30%/HIMAKALA.zip\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1o9dJf52laUjDkJgviTyqoX6sqmKdkUuD",
+          "previewKind": "metadata"
+        }
+      ],
+      "milestones": [],
+      "gallery": [],
+      "videos": []
+    },
+    {
+      "id": "drive-1WbaWffiuy7yhCTKz2tCzg1OJeKZ-CGM7",
+      "title": "Scraping Job, Event, dll",
+      "category": "PROJECT",
+      "year": null,
+      "developmentStatus": "documented",
+      "publicationState": "published",
+      "visibility": "public",
+      "isSample": false,
+      "sortOrder": 2,
+      "color": [
+        61,
+        206,
+        190
+      ],
+      "summary": "Koleksi dari RISTEK/PROJECT/Scraping Job, Event, dll; 1 berkas terinventarisasi.",
+      "problem": "Belum tercantum sebagai narasi proyek pada metadata Drive yang dibaca.",
+      "solution": "Buka Dokumentasi untuk melihat file dan preview yang tersedia.",
+      "outcomes": [
+        "Keberadaan folder dan daftar file telah diverifikasi. Status penyelesaian proyek belum disimpulkan."
+      ],
+      "features": [
+        "1 berkas terinventarisasi",
+        "Sumber tunggal: folder Drive RISTEK"
+      ],
+      "team": [],
+      "techStack": [],
+      "tags": [
+        "PROJECT",
+        "Scraping Job, Event, dll",
+        "Drive"
+      ],
+      "updatedAt": "2026-10-16",
+      "sourceLabel": "RISTEK/PROJECT/Scraping Job, Event, dll",
+      "sourceFolderId": "1WbaWffiuy7yhCTKz2tCzg1OJeKZ-CGM7",
+      "documents": [
+        {
+          "id": "drive-doc-1WbaWffiuy7yhCTKz2tCzg1OJeKZ-CGM7-1idTcJj5Wx1nuQtr7FR9sMqWK4QdXEkM0",
+          "title": "Github Scraping web.txt",
+          "kind": "text",
+          "pages": [
+            "GitHub : https://github.com/Khoirul-Yardan/Scrapingweb"
+          ],
+          "sourceRef": "1idTcJj5Wx1nuQtr7FR9sMqWK4QdXEkM0",
+          "previewKind": "text"
+        }
+      ],
+      "milestones": [],
+      "gallery": [],
+      "videos": []
+    },
+    {
+      "id": "drive-1Dbox9f0dxZnwXLrBCyKA42g5-r8V7qjj",
+      "title": "Tech Insight",
+      "category": "Tech Insight",
+      "year": null,
+      "developmentStatus": "documented",
+      "publicationState": "published",
+      "visibility": "public",
+      "isSample": false,
+      "sortOrder": 3,
+      "color": [
+        166,
+        145,
+        224
+      ],
+      "summary": "Tech Insight\r\n\r\n- Daftar ide artikel\r\n- Referensi teknologi\r\n- Draft artikel sebelum dipublikasikan\r\n- Artikel yang sudah diposting",
+      "problem": "Belum tercantum sebagai narasi proyek pada metadata Drive yang dibaca.",
+      "solution": "Buka Dokumentasi untuk melihat file dan preview yang tersedia.",
+      "outcomes": [
+        "Keberadaan folder dan daftar file telah diverifikasi. Status penyelesaian proyek belum disimpulkan."
+      ],
+      "features": [
+        "11 berkas terinventarisasi",
+        "Sumber tunggal: folder Drive RISTEK"
+      ],
+      "team": [],
+      "techStack": [],
+      "tags": [
+        "Tech Insight",
+        "Tech Insight",
+        "Drive"
+      ],
+      "updatedAt": "2026-10-16",
+      "sourceLabel": "RISTEK/Tech Insight",
+      "sourceFolderId": "1Dbox9f0dxZnwXLrBCyKA42g5-r8V7qjj",
+      "documents": [
+        {
+          "id": "drive-doc-1Dbox9f0dxZnwXLrBCyKA42g5-r8V7qjj-1nb294eMH4PAHS9DpzvbdbrU_pe_gHGHVOs-RldueiLU",
+          "title": "Knowledge Base ",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/vnd.google-apps.spreadsheet\nLokasi: RISTEK/Tech Insight/Knowledge Base \n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1nb294eMH4PAHS9DpzvbdbrU_pe_gHGHVOs-RldueiLU",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1Dbox9f0dxZnwXLrBCyKA42g5-r8V7qjj-1ubrH-uWt11vtlksof9giA_gGXEA4Q-qs",
+          "title": "Tech Insight.txt",
+          "kind": "text",
+          "pages": [
+            "Tech Insight\r\n\r\n- Daftar ide artikel\r\n- Referensi teknologi\r\n- Draft artikel sebelum dipublikasikan\r\n- Artikel yang sudah diposting"
+          ],
+          "sourceRef": "1ubrH-uWt11vtlksof9giA_gGXEA4Q-qs",
+          "previewKind": "text"
+        },
+        {
+          "id": "drive-doc-1Dbox9f0dxZnwXLrBCyKA42g5-r8V7qjj-1N4Ro82EmKmP17kB7-_TAA_BvgGNTl90R",
+          "title": "VOL.2+JULI+2024+HAL+76-94.pdf",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/pdf\nLokasi: RISTEK/Tech Insight/Artikel/Informatika/VOL.2+JULI+2024+HAL+76-94.pdf\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1N4Ro82EmKmP17kB7-_TAA_BvgGNTl90R",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1Dbox9f0dxZnwXLrBCyKA42g5-r8V7qjj-1gHPkOAEscCnCMX7sDLLVl7IZ3ONGoCbF",
+          "title": "JURTIKOM++vol+2+no+1+Maret+2025+(muthohir)+63-69.pdf",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/pdf\nLokasi: RISTEK/Tech Insight/Artikel/Informatika/JURTIKOM++vol+2+no+1+Maret+2025+(muthohir)+63-69.pdf\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1gHPkOAEscCnCMX7sDLLVl7IZ3ONGoCbF",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1Dbox9f0dxZnwXLrBCyKA42g5-r8V7qjj-1NkLS_e9X_b8LCV_obfCDZo8Yo_ZmBxt4",
+          "title": "813763256-Oral-Implantology-Assessment-to-Maintenance.pdf",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/pdf\nLokasi: RISTEK/Tech Insight/Artikel/Kesehatan/813763256-Oral-Implantology-Assessment-to-Maintenance.pdf\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1NkLS_e9X_b8LCV_obfCDZo8Yo_ZmBxt4",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1Dbox9f0dxZnwXLrBCyKA42g5-r8V7qjj-1Eb3ANZHPZd6ZuAc3zzMpYY8CIf18QnN6",
+          "title": "Journal of Endodontics_20260425.zip",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/x-zip-compressed\nLokasi: RISTEK/Tech Insight/Artikel/Kesehatan/Journal of Endodontics_20260425.zip\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1Eb3ANZHPZd6ZuAc3zzMpYY8CIf18QnN6",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1Dbox9f0dxZnwXLrBCyKA42g5-r8V7qjj-14-3-1vNSuljDFiHQ2RSBS0PMc8zKvSt5",
+          "title": "863502835-Digital-Dental-Implantology-from-Treatment-Planning-to-Guided-Surgery-1-30-1.pdf",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/pdf\nLokasi: RISTEK/Tech Insight/Artikel/Kesehatan/863502835-Digital-Dental-Implantology-from-Treatment-Planning-to-Guided-Surgery-1-30-1.pdf\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "14-3-1vNSuljDFiHQ2RSBS0PMc8zKvSt5",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1Dbox9f0dxZnwXLrBCyKA42g5-r8V7qjj-1HMjo7rdZZQvc8itjDff6zPzz00U6a3DY",
+          "title": "8978-Article Text-36897-1-10-20250613.pdf",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/pdf\nLokasi: RISTEK/Tech Insight/Artikel/Kesehatan/8978-Article Text-36897-1-10-20250613.pdf\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1HMjo7rdZZQvc8itjDff6zPzz00U6a3DY",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1Dbox9f0dxZnwXLrBCyKA42g5-r8V7qjj-1WHKQofuH6KvbAw2dtUiyq3crNN3_7Eii",
+          "title": "422452936-sitologi-docx.pdf",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/pdf\nLokasi: RISTEK/Tech Insight/Artikel/Kesehatan/422452936-sitologi-docx.pdf\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1WHKQofuH6KvbAw2dtUiyq3crNN3_7Eii",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1Dbox9f0dxZnwXLrBCyKA42g5-r8V7qjj-1qkzD208j190Mg_22bmmAcW_FJpfuymof",
+          "title": "skema_database_sik.md",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: text/markdown\nLokasi: RISTEK/Tech Insight/Artikel/Kesehatan/Contoh DATABASE SIMRS/skema_database_sik.md\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1qkzD208j190Mg_22bmmAcW_FJpfuymof",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1Dbox9f0dxZnwXLrBCyKA42g5-r8V7qjj-1J5FYqCQq-Qhsf3ccuxB6XXEQXKVpSlC9",
+          "title": "sik.sql",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: text/x-sql\nLokasi: RISTEK/Tech Insight/Artikel/Kesehatan/Contoh DATABASE SIMRS/sik.sql\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1J5FYqCQq-Qhsf3ccuxB6XXEQXKVpSlC9",
+          "previewKind": "metadata"
+        }
+      ],
+      "milestones": [],
+      "gallery": [],
+      "videos": []
+    },
+    {
+      "id": "drive-1bJ6jdJeTVcPoYCAeMI2ZjUpCzA7SlElw",
+      "title": "Mini Showcase",
+      "category": "Mini Showcase",
+      "year": null,
+      "developmentStatus": "documented",
+      "publicationState": "published",
+      "visibility": "public",
+      "isSample": false,
+      "sortOrder": 4,
+      "color": [
+        236,
+        133,
+        115
+      ],
+      "summary": "Mini Showcase\r\n\r\n- Template presentasi\r\n- Folder untuk setiap anggota mengumpulkan project\r\n- Feedback hasil presentasi",
+      "problem": "Belum tercantum sebagai narasi proyek pada metadata Drive yang dibaca.",
+      "solution": "Buka Dokumentasi untuk melihat file dan preview yang tersedia.",
+      "outcomes": [
+        "Keberadaan folder dan daftar file telah diverifikasi. Status penyelesaian proyek belum disimpulkan."
+      ],
+      "features": [
+        "1 berkas terinventarisasi",
+        "Sumber tunggal: folder Drive RISTEK"
+      ],
+      "team": [],
+      "techStack": [],
+      "tags": [
+        "Mini Showcase",
+        "Mini Showcase",
+        "Drive"
+      ],
+      "updatedAt": "2026-10-16",
+      "sourceLabel": "RISTEK/Mini Showcase",
+      "sourceFolderId": "1bJ6jdJeTVcPoYCAeMI2ZjUpCzA7SlElw",
+      "documents": [
+        {
+          "id": "drive-doc-1bJ6jdJeTVcPoYCAeMI2ZjUpCzA7SlElw-1O4nxUdRUpqO6xTwVhyBy2x8x_cfCjud6",
+          "title": "Mini Showcase.txt",
+          "kind": "text",
+          "pages": [
+            "Mini Showcase\r\n\r\n- Template presentasi\r\n- Folder untuk setiap anggota mengumpulkan project\r\n- Feedback hasil presentasi"
+          ],
+          "sourceRef": "1O4nxUdRUpqO6xTwVhyBy2x8x_cfCjud6",
+          "previewKind": "text"
+        }
+      ],
+      "milestones": [],
+      "gallery": [],
+      "videos": []
+    },
+    {
+      "id": "drive-1BUBhV3bUljm6Iy4c58DX0j3-zXDZN20J",
+      "title": "Tech Corner",
+      "category": "Tech Corner",
+      "year": null,
+      "developmentStatus": "documented",
+      "publicationState": "published",
+      "visibility": "public",
+      "isSample": false,
+      "sortOrder": 5,
+      "color": [
+        242,
+        185,
+        85
+      ],
+      "summary": "Tech Corner\r\n\r\n- Daftar ide topik diskusi\r\n- Materi yang akan dibahas\r\n- Dokumentasi setiap kegiatan",
+      "problem": "Belum tercantum sebagai narasi proyek pada metadata Drive yang dibaca.",
+      "solution": "Buka Dokumentasi untuk melihat file dan preview yang tersedia.",
+      "outcomes": [
+        "Keberadaan folder dan daftar file telah diverifikasi. Status penyelesaian proyek belum disimpulkan."
+      ],
+      "features": [
+        "1 berkas terinventarisasi",
+        "Sumber tunggal: folder Drive RISTEK"
+      ],
+      "team": [],
+      "techStack": [],
+      "tags": [
+        "Tech Corner",
+        "Tech Corner",
+        "Drive"
+      ],
+      "updatedAt": "2026-10-16",
+      "sourceLabel": "RISTEK/Tech Corner",
+      "sourceFolderId": "1BUBhV3bUljm6Iy4c58DX0j3-zXDZN20J",
+      "documents": [
+        {
+          "id": "drive-doc-1BUBhV3bUljm6Iy4c58DX0j3-zXDZN20J-1BwNp1fIUIJYYdcTzeI4GX0cdNFdTNFdH",
+          "title": "Tech Corner.txt",
+          "kind": "text",
+          "pages": [
+            "Tech Corner\r\n\r\n- Daftar ide topik diskusi\r\n- Materi yang akan dibahas\r\n- Dokumentasi setiap kegiatan"
+          ],
+          "sourceRef": "1BwNp1fIUIJYYdcTzeI4GX0cdNFdTNFdH",
+          "previewKind": "text"
+        }
+      ],
+      "milestones": [],
+      "gallery": [],
+      "videos": []
+    },
+    {
+      "id": "drive-1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3",
+      "title": "Administrasi",
+      "category": "Administrasi",
+      "year": null,
+      "developmentStatus": "documented",
+      "publicationState": "published",
+      "visibility": "public",
+      "isSample": false,
+      "sortOrder": 6,
+      "color": [
+        94,
+        166,
+        228
+      ],
+      "summary": "Koleksi dari RISTEK/Administrasi; 12 berkas terinventarisasi.",
+      "problem": "Belum tercantum sebagai narasi proyek pada metadata Drive yang dibaca.",
+      "solution": "Buka Dokumentasi untuk melihat file dan preview yang tersedia.",
+      "outcomes": [
+        "Keberadaan folder dan daftar file telah diverifikasi. Status penyelesaian proyek belum disimpulkan."
+      ],
+      "features": [
+        "12 berkas terinventarisasi",
+        "Sumber tunggal: folder Drive RISTEK"
+      ],
+      "team": [],
+      "techStack": [],
+      "tags": [
+        "Administrasi",
+        "Administrasi",
+        "Drive"
+      ],
+      "updatedAt": "2026-10-16",
+      "sourceLabel": "RISTEK/Administrasi",
+      "sourceFolderId": "1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3",
+      "documents": [
+        {
+          "id": "drive-doc-1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3-1JQqNGOflBs8Kx23ZfXliX7XIsBNzQFrG",
+          "title": "logo.jpeg",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: image/jpeg\nLokasi: RISTEK/Administrasi/logo.jpeg\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1JQqNGOflBs8Kx23ZfXliX7XIsBNzQFrG",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3-1nWVVaFnvgg0H7p0I5Gi8aKYHMMgxulMj",
+          "title": "Aturan Upload Dokumentasi.txt",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: text/plain\nLokasi: RISTEK/Administrasi/Aturan Upload Dokumentasi.txt\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1nWVVaFnvgg0H7p0I5Gi8aKYHMMgxulMj",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3-1kACMlx2VLq_ec3kL0qaw1a4Ve_SUXrLR",
+          "title": "Note Rapat Umum",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/vnd.google-apps.shortcut\nLokasi: RISTEK/Administrasi/Note Rapat Umum\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1kACMlx2VLq_ec3kL0qaw1a4Ve_SUXrLR",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3-1_7ObxF7ehrRbS92H0HpS4Y-Fi2eMEMEY",
+          "title": "ADMINISTRASI RISTEK.txt",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: text/plain\nLokasi: RISTEK/Administrasi/ADMINISTRASI RISTEK.txt\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1_7ObxF7ehrRbS92H0HpS4Y-Fi2eMEMEY",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3-1yjUDGLfdkbM1m2cJyGljqabWr1NxTjOY",
+          "title": "5_Template_Tech_Insight_RISTEK.docx",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/vnd.openxmlformats-officedocument.wordprocessingml.document\nLokasi: RISTEK/Administrasi/TEMPLATE DOKUMENTASI/5_Template_Tech_Insight_RISTEK.docx\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1yjUDGLfdkbM1m2cJyGljqabWr1NxTjOY",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3-15jwwX6aqAj2520P2olfQoOp5u4tY-R3q",
+          "title": "4_Template_Tech_Corner_RISTEK.docx",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/vnd.openxmlformats-officedocument.wordprocessingml.document\nLokasi: RISTEK/Administrasi/TEMPLATE DOKUMENTASI/4_Template_Tech_Corner_RISTEK.docx\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "15jwwX6aqAj2520P2olfQoOp5u4tY-R3q",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3-1plMqWfHahDfb1kJDUiTq86fNAnzKV64W",
+          "title": "3_Template_Project_RISTEK.docx",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/vnd.openxmlformats-officedocument.wordprocessingml.document\nLokasi: RISTEK/Administrasi/TEMPLATE DOKUMENTASI/3_Template_Project_RISTEK.docx\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1plMqWfHahDfb1kJDUiTq86fNAnzKV64W",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3-1nQMabK21-y-UZj-DvAJ2INZyBogrqAe7",
+          "title": "2_Template_Mini_Showcase_RISTEK.docx",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/vnd.openxmlformats-officedocument.wordprocessingml.document\nLokasi: RISTEK/Administrasi/TEMPLATE DOKUMENTASI/2_Template_Mini_Showcase_RISTEK.docx\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1nQMabK21-y-UZj-DvAJ2INZyBogrqAe7",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3-12eYPO0bIJZIZhuEvQu8oXQM6rQFgzd6M",
+          "title": "1_Template_Administrasi_RISTEK.docx",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/vnd.openxmlformats-officedocument.wordprocessingml.document\nLokasi: RISTEK/Administrasi/TEMPLATE DOKUMENTASI/1_Template_Administrasi_RISTEK.docx\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "12eYPO0bIJZIZhuEvQu8oXQM6rQFgzd6M",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3-1-Qw4qGv8OA6byk77IFSb1PfdS2h30zeaZQNhky7H4eI",
+          "title": "Notulen 22 JULI 2026",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/vnd.google-apps.document\nLokasi: RISTEK/Administrasi/Notulensi Rapat/Notulen 22 JULI 2026\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1-Qw4qGv8OA6byk77IFSb1PfdS2h30zeaZQNhky7H4eI",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3-1Ayg2amuRBXkJt8CGzAenbMlKeOBr2G1e",
+          "title": "DO_26-08-2026",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: image/png\nLokasi: RISTEK/Administrasi/Dokumentasi Rapat/DO_26-08-2026\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1Ayg2amuRBXkJt8CGzAenbMlKeOBr2G1e",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1GsZzLIdMUaA26DiVXGDASvf3F0xdz9j3-1u2C7X1y4x9G_YWkRHvATpuaVHedRNxwx",
+          "title": "DO_22-07-2026.png",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: image/png\nLokasi: RISTEK/Administrasi/Dokumentasi Rapat/DO_22-07-2026.png\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1u2C7X1y4x9G_YWkRHvATpuaVHedRNxwx",
+          "previewKind": "metadata"
+        }
+      ],
+      "milestones": [],
+      "gallery": [],
+      "videos": []
+    },
+    {
+      "id": "drive-1iLIV6I1IOfNRgGg-Kaieuvmnc15kv7HD",
+      "title": "TEMPLATE DOKUMENTASI",
+      "category": "Administrasi",
+      "year": null,
+      "developmentStatus": "documented",
+      "publicationState": "published",
+      "visibility": "public",
+      "isSample": false,
+      "sortOrder": 7,
+      "color": [
+        61,
+        206,
+        190
+      ],
+      "summary": "Koleksi dari RISTEK/Administrasi/TEMPLATE DOKUMENTASI; 5 berkas terinventarisasi.",
+      "problem": "Belum tercantum sebagai narasi proyek pada metadata Drive yang dibaca.",
+      "solution": "Buka Dokumentasi untuk melihat file dan preview yang tersedia.",
+      "outcomes": [
+        "Keberadaan folder dan daftar file telah diverifikasi. Status penyelesaian proyek belum disimpulkan."
+      ],
+      "features": [
+        "5 berkas terinventarisasi",
+        "Sumber tunggal: folder Drive RISTEK"
+      ],
+      "team": [],
+      "techStack": [],
+      "tags": [
+        "Administrasi",
+        "TEMPLATE DOKUMENTASI",
+        "Drive"
+      ],
+      "updatedAt": "2026-10-16",
+      "sourceLabel": "RISTEK/Administrasi/TEMPLATE DOKUMENTASI",
+      "sourceFolderId": "1iLIV6I1IOfNRgGg-Kaieuvmnc15kv7HD",
+      "documents": [
+        {
+          "id": "drive-doc-1iLIV6I1IOfNRgGg-Kaieuvmnc15kv7HD-1yjUDGLfdkbM1m2cJyGljqabWr1NxTjOY",
+          "title": "5_Template_Tech_Insight_RISTEK.docx",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/vnd.openxmlformats-officedocument.wordprocessingml.document\nLokasi: RISTEK/Administrasi/TEMPLATE DOKUMENTASI/5_Template_Tech_Insight_RISTEK.docx\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1yjUDGLfdkbM1m2cJyGljqabWr1NxTjOY",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1iLIV6I1IOfNRgGg-Kaieuvmnc15kv7HD-15jwwX6aqAj2520P2olfQoOp5u4tY-R3q",
+          "title": "4_Template_Tech_Corner_RISTEK.docx",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/vnd.openxmlformats-officedocument.wordprocessingml.document\nLokasi: RISTEK/Administrasi/TEMPLATE DOKUMENTASI/4_Template_Tech_Corner_RISTEK.docx\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "15jwwX6aqAj2520P2olfQoOp5u4tY-R3q",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1iLIV6I1IOfNRgGg-Kaieuvmnc15kv7HD-1plMqWfHahDfb1kJDUiTq86fNAnzKV64W",
+          "title": "3_Template_Project_RISTEK.docx",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/vnd.openxmlformats-officedocument.wordprocessingml.document\nLokasi: RISTEK/Administrasi/TEMPLATE DOKUMENTASI/3_Template_Project_RISTEK.docx\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1plMqWfHahDfb1kJDUiTq86fNAnzKV64W",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1iLIV6I1IOfNRgGg-Kaieuvmnc15kv7HD-1nQMabK21-y-UZj-DvAJ2INZyBogrqAe7",
+          "title": "2_Template_Mini_Showcase_RISTEK.docx",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/vnd.openxmlformats-officedocument.wordprocessingml.document\nLokasi: RISTEK/Administrasi/TEMPLATE DOKUMENTASI/2_Template_Mini_Showcase_RISTEK.docx\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1nQMabK21-y-UZj-DvAJ2INZyBogrqAe7",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-1iLIV6I1IOfNRgGg-Kaieuvmnc15kv7HD-12eYPO0bIJZIZhuEvQu8oXQM6rQFgzd6M",
+          "title": "1_Template_Administrasi_RISTEK.docx",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/vnd.openxmlformats-officedocument.wordprocessingml.document\nLokasi: RISTEK/Administrasi/TEMPLATE DOKUMENTASI/1_Template_Administrasi_RISTEK.docx\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "12eYPO0bIJZIZhuEvQu8oXQM6rQFgzd6M",
+          "previewKind": "metadata"
+        }
+      ],
+      "milestones": [],
+      "gallery": [],
+      "videos": []
+    },
+    {
+      "id": "drive-173hVDN_JB7RFFHbye48p4dYOFdogp18N",
+      "title": "Informatika",
+      "category": "Tech Insight",
+      "year": null,
+      "developmentStatus": "documented",
+      "publicationState": "published",
+      "visibility": "public",
+      "isSample": false,
+      "sortOrder": 8,
+      "color": [
+        166,
+        145,
+        224
+      ],
+      "summary": "Koleksi dari RISTEK/Tech Insight/Artikel/Informatika; 2 berkas terinventarisasi.",
+      "problem": "Belum tercantum sebagai narasi proyek pada metadata Drive yang dibaca.",
+      "solution": "Buka Dokumentasi untuk melihat file dan preview yang tersedia.",
+      "outcomes": [
+        "Keberadaan folder dan daftar file telah diverifikasi. Status penyelesaian proyek belum disimpulkan."
+      ],
+      "features": [
+        "2 berkas terinventarisasi",
+        "Sumber tunggal: folder Drive RISTEK"
+      ],
+      "team": [],
+      "techStack": [],
+      "tags": [
+        "Tech Insight",
+        "Informatika",
+        "Drive"
+      ],
+      "updatedAt": "2026-10-16",
+      "sourceLabel": "RISTEK/Tech Insight/Artikel/Informatika",
+      "sourceFolderId": "173hVDN_JB7RFFHbye48p4dYOFdogp18N",
+      "documents": [
+        {
+          "id": "drive-doc-173hVDN_JB7RFFHbye48p4dYOFdogp18N-1N4Ro82EmKmP17kB7-_TAA_BvgGNTl90R",
+          "title": "VOL.2+JULI+2024+HAL+76-94.pdf",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/pdf\nLokasi: RISTEK/Tech Insight/Artikel/Informatika/VOL.2+JULI+2024+HAL+76-94.pdf\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1N4Ro82EmKmP17kB7-_TAA_BvgGNTl90R",
+          "previewKind": "metadata"
+        },
+        {
+          "id": "drive-doc-173hVDN_JB7RFFHbye48p4dYOFdogp18N-1gHPkOAEscCnCMX7sDLLVl7IZ3ONGoCbF",
+          "title": "JURTIKOM++vol+2+no+1+Maret+2025+(muthohir)+63-69.pdf",
+          "kind": "text",
+          "pages": [
+            "Isi berkas belum dikonversi menjadi preview Roblox.\n\nJenis: application/pdf\nLokasi: RISTEK/Tech Insight/Artikel/Informatika/JURTIKOM++vol+2+no+1+Maret+2025+(muthohir)+63-69.pdf\n\nIni adalah metadata dari Drive, bukan ringkasan isi dokumen."
+          ],
+          "sourceRef": "1gHPkOAEscCnCMX7sDLLVl7IZ3ONGoCbF",
+          "previewKind": "metadata"
+        }
+      ],
+      "milestones": [],
+      "gallery": [],
+      "videos": []
+    }
+  ]
+}
